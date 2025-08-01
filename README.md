@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m so glad you’re here!
 
 Welcome to my GitHub space!  
-I'm a **Data Engineer** with strong analytical skills, focused on building scalable data pipelines, leveraging cloud tools, and extracting actionable insights from complex datasets.
+I'm a **Data Analyst** with strong engineering skills, focused on building scalable data pipelines, leveraging cloud tools, and extracting actionable insights from complex datasets.
 
 Here’s what you’ll find here:
 
