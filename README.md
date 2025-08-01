@@ -15,7 +15,7 @@ If you're curious about how data flows behind the scenes, how insights are deriv
 ---
 
 ## 🤝 Let’s connect, learn, and grow together — *one pipeline at a time.*  
-You bring the ideas, I’ll bring the DAGs 🍕📊
+You bring the data, I’ll bring the insights 🍕📊
 
 ---
 
